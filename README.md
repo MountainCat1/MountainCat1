@@ -1,5 +1,7 @@
 Hi 👋 My name is Tomek
-======================Web Developer 🌐 • Game Developer 🎮 • DevOps 🚀----------------------------------------------
+Web Developer 🌐 • Game Developer 🎮 • DevOps 🚀
+
+----------------------------------------------
 
 ### Skills
 
